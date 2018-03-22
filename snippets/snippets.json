@@ -1,0 +1,60 @@
+{
+    "ui-button": {
+        "prefix": "ui-button",
+        "body": [
+            "<button class=\"ui button\" aria-label=\"${1:label}\">",
+            "  ${1:label}",
+            "</button>"
+        ]
+    },
+    "ui-button-tooltip": {
+        "prefix": "ui-button-tooltip",
+        "body": [
+            "<button class=\"ui button\" data-tooltip=\"${1:content}\" aria-label=\"${2:label}\">",
+            "  ${2:label}",
+            "</button>"
+        ]
+    },
+    "ui-button-disabled-tooltip": {
+        "prefix": "ui-button-disabled-tooltip",
+        "body": [
+            "<span data-tooltip=\"${1:tooltip-content}\">",
+            "  <button class=\"ui button disabled\" aria-label=\"${2:button-label}\">",
+            "    ${2:button-label}",
+            "  </button>",
+            "</span>"
+        ]
+    },
+    "ui-segment": {
+        "prefix": "ui-segment",
+        "body": [
+            "<div class=\"ui segment\">",
+            "  ${1:contents}",
+            "</div>"
+        ],
+        "description": "ui-segment"
+    },
+    "ui-form": {
+        "prefix": "ui-form",
+        "body": [
+            "<form class=\"ui form\" method=\"post\">",
+            "  ${1:contents}",
+            "</form>"
+        ],
+        "description": "ui-form"
+    },
+    "ui-header": {
+        "prefix": "ui-header",
+        "body": [
+            "<div class=\"ui header\">${1:name}</div>"
+        ],
+        "description": "ui-header"
+    },
+    "ui-clearing": {
+        "prefix": "ui-clearing",
+        "body": [
+            "<div class=\"ui hidden clearing divider\"></div>"
+        ],
+        "description": "ui-clearing"
+    }
+}

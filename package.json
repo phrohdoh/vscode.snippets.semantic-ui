@@ -1,0 +1,21 @@
+{
+    "name": "phrohdoh-vscode-snippets-semantic-ui",
+    "displayName": "Semantic UI Snippets",
+    "description": "Semantic UI snippets for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "Phrohdoh",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
