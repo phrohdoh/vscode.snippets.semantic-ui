@@ -1,5 +1,13 @@
 # Semantic UI Snippets for Visual Studio Code
 
+## Add a new snippet
+
+1) Write a snippet in https://pawelgrzybek.com/snippet-generator
+2) Copy the resulting JSON
+3) Paste said JSON into `snippets.json`
+4) Run `Format Document` command on `snippets.json`
+5) Open a Pull Request
+
 ## Install
 
 1. [Download Visual Studio Code](https://code.visualstudio.com/download?wt.mc_id=DX_841432) then launch it
