@@ -24,6 +24,8 @@
 |`std-button` | `button`|
 |`std-button-tooltip` | `button` with a tooltip|
 |`std-button-disabled-tooltip` | `button` with class `disabled` and tooltip on a surrounding `span`|
+|`ui-button-deny` | `div` with class `ui black deny button`|
+|`ui-button-approve` | `div` with class `ui green approve right button`|
 | **Misc** | |
 |`ui-segment` | `div` with class `ui segment`|
 |`ui-form` | `form` with class `ui form` and method `post`|

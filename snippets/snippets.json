@@ -25,6 +25,24 @@
             "</span>"
         ]
     },
+    "ui-button-deny": {
+        "prefix": "ui-button-deny",
+        "body": [
+            "<div class=\"ui black deny button\">",
+            "  ${1:label}",
+            "</div>"
+        ],
+        "description": "ui-button-deny"
+    },
+    "ui-button-approve": {
+        "prefix": "ui-button-approve",
+        "body": [
+            "<div class=\"ui green approve right button\">",
+            "  ${1:label}",
+            "</div>"
+        ],
+        "description": "ui-button-approve"
+    },
     "ui-segment": {
         "prefix": "ui-segment",
         "body": [
