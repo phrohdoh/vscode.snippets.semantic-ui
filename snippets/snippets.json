@@ -1,13 +1,13 @@
 {
-    "ui-button": {
-        "prefix": "ui-button",
+    "std-button": {
+        "prefix": "std-button",
         "body": [
             "<button class=\"ui button\" aria-label=\"${1:label}\">",
             "  ${1:label}",
             "</button>"
         ]
     },
-    "ui-button-tooltip": {
+    "std-button-tooltip": {
         "prefix": "ui-button-tooltip",
         "body": [
             "<button class=\"ui button\" data-tooltip=\"${1:content}\" aria-label=\"${2:label}\">",
@@ -15,7 +15,7 @@
             "</button>"
         ]
     },
-    "ui-button-disabled-tooltip": {
+    "std-button-disabled-tooltip": {
         "prefix": "ui-button-disabled-tooltip",
         "body": [
             "<span data-tooltip=\"${1:tooltip-content}\">",

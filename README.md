@@ -21,9 +21,9 @@
 | **Shortcut Prefix** | **Description** |
 |---|---|
 | **Buttons** | |
-|`ui-button` | `button`|
-|`ui-button-tooltip` | `button` with a tooltip|
-|`ui-button-disabled-tooltip` | `button` with class `disabled` and tooltip on a surrounding `span`|
+|`std-button` | `button`|
+|`std-button-tooltip` | `button` with a tooltip|
+|`std-button-disabled-tooltip` | `button` with class `disabled` and tooltip on a surrounding `span`|
 | **Misc** | |
 |`ui-segment` | `div` with class `ui segment`|
 |`ui-form` | `form` with class `ui form` and method `post`|
