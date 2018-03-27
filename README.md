@@ -31,6 +31,7 @@
 |`ui-form` | `form` with class `ui form` and method `post`|
 |`ui-header` | `div` with class `ui header`|
 |`ui-clearing` | `div` with class `ui hidden clearing divider`|
+|`ui-modal` | `div` with class `ui modal`|
 
 
 ## License

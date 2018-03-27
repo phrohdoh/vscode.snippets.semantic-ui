@@ -74,5 +74,24 @@
             "<div class=\"ui hidden clearing divider\"></div>"
         ],
         "description": "ui-clearing"
+    },
+    "ui-modal": {
+        "prefix": "ui-modal",
+        "body": [
+            "<div class=\"ui modal\">",
+            "  <div class=\"header\">",
+            "    ${1:header}",
+            "  </div>",
+            "  <div class=\"content\">",
+            "    <div class=\"description\">",
+            "      ${2:content}",
+            "    </div>",
+            "  </div>",
+            "  <div class=\"actions\">",
+            "    ${3:actions}",
+            "  </div>",
+            "</div>"
+        ],
+        "description": "ui-modal"
     }
 }
